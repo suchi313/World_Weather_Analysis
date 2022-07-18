@@ -130,3 +130,7 @@ dmypy.json
 
 # Weather API config
 config.py
+
+# Adding Additional Files 
+API_practice.ipynb
+random_numbers.ipynb
