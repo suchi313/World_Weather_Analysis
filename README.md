@@ -24,7 +24,7 @@ The image below is Global Map - with markers that showcase key details for trave
 
 ## Vacation Itinerary 
 
-Utlizing Google Directions API, I created a sample itinerary of how to use the interactive tooL. For this example, I chose four cities across the southern edge of New Zealand. As shown in the images below, it provides travelers an overarching view of cities they can visit, the distances, the weather, and various modes of transportation that can be offered. 
+Utlizing Google Directions API, I created a sample itinerary of how to use the interactive tooL. For this example, I chose four cities across the southern edge of New Zealand. As shown in the images below, it provides travelers an overarching view of cities they can visit, the distances, the weather, and various hotel accoumadations that can be offered. 
 
 
 ![NZ_Travel_Map_Overview](https://user-images.githubusercontent.com/102767530/180308649-97c6c297-94e8-4f3e-8225-6b9ef4be2466.png)
