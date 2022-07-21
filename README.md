@@ -16,14 +16,15 @@ The following list of data was received:
 
 ## Vacation Search 
 
-The image below shows a Map - with markers that showcase key details for travelers. Such as - Hotel Name, City, Country, Current Weather, and Max Temp. 
-This interactive tool can aid travelers in finding accomodations as well as identify the best time to travel as per the weather!
+The image below is Global Map - with markers that showcase key details for travelers. This interactive tool can aid travelers in finding accomodations as well as identify the best time to travel as per the weather!
+-  *Such as - Hotel Name, City, Country, Current Weather, and Max Temp.*
+
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/102767530/180308079-f95a16a2-371c-460f-b433-e4de8ad7803d.png)
 
 ## Vacation Itinerary 
 
-Utlizing Google Directions API, I created a sample itinerary of how to use the interactive tooL. As seen from the image, I chose 4 cities from New Zealand. From the maps, you can have an overarching view of the travel check points, the distances, and various modes of transportation that can be offered to clients. 
+Utlizing Google Directions API, I created a sample itinerary of how to use the interactive tooL. For this example, I chose four cities across the southern edge of New Zealand. As shown in the images below, it provides travelers an overarching view of cities they can visit, the distances, the weather, and various modes of transportation that can be offered. 
 
 
 ![NZ_Travel_Map_Overview](https://user-images.githubusercontent.com/102767530/180308649-97c6c297-94e8-4f3e-8225-6b9ef4be2466.png)
