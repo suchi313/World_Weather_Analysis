@@ -23,11 +23,10 @@ This interactive tool can aid travelers in finding accomodations as well as iden
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/102767530/180308079-f95a16a2-371c-460f-b433-e4de8ad7803d.png)
 
-## Itinerary 
+## Vacation Itinerary 
 
-From using the Google Directions API, the travel agency asked to create a sample iterary to show to new clients - 
+Utlizing Google Directions API, I created a sample itinerary of how to use the interactive tooL. As seen from the image, I chose 4 cities from New Zealand. From the maps, you can have an overarching view of the travel check points, the distances, and various modes of transportation that can be offered to clients. 
 
-I chose 4 cities in New Zealand - 
 
 ![NZ_Travel_Map_Overview](https://user-images.githubusercontent.com/102767530/180308649-97c6c297-94e8-4f3e-8225-6b9ef4be2466.png)
 ![NZ_WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/102767530/180308683-cf6582ae-bdb5-4022-98c7-d28506324de2.png)![NZ_WeatherPy_Travel_Map](https://user-images.githubusercontent.com/102767530/180308693-24606843-6de0-4968-bffd-caef0734150f.png)
