@@ -1,7 +1,7 @@
 # World Weather Analysis
 
 ## Overview 
-The purpose of this challenge was to collect, analyze, and visualize weather data from cities across the world. After analyzing the information, I was able to create an interactive map to help a travel planning agency. The agency leveraged the tool to provide guidance to clients as they selected their ideal vacations.The agency was also able to create a unique experience for each client by creating a individualized vacation itinerary. 
+The purpose of this challenge was to collect, analyze, and visualize weather data from cities across the world. After analyzing the information, I was able to create an interactive map to help a travel planning service. The service leverage the tool to provide guidance to clients as they selected their ideal vacations.The service was also able to create a unique experience for each client by creating a individualized vacation itinerary. 
 
 ## Weather Database
 The challenge asked to create a random set of 2,000 Latitudes + Longitudes. After the list was created, we had to make an API Call by using Google Maps. 
